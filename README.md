@@ -99,4 +99,4 @@ For the modification alert, Wazuh reported changes to `size`, `mtime`, `md5`, `s
 
 ## Privacy
 
-Screenshots have account- and device-identifying details redacted. Enrollment credentials, private configuration secrets, and raw unredacted logs are not included.
+Screenshots have account and device-identifying details redacted. Enrollment credentials, private configuration secrets, and raw unredacted logs are not included.
